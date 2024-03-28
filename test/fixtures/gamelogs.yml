@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  game: one
+  user: one
+  review_score: 1.5
+  review_content: MyText
+  log_date: 2024-03-28
+
+two:
+  game: two
+  user: two
+  review_score: 1.5
+  review_content: MyText
+  log_date: 2024-03-28
